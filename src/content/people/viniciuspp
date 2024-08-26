@@ -1,0 +1,15 @@
+
+id: 20232370002
+  name:Vinicius
+  compact: Vinicius da Silva
+full: Vinicius da Silva Santos
+avatar: https://avatars.githubusercontent.com/u/142829907?v=4
+occupations:
+- id: 20162370007
+  type: student
+  campus: ifpb-jp
+  course: cstsi
+  isFinished: true
+addresses:
+  github: https://github.com/viniciusantos2
+  linkedin: 
